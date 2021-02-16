@@ -7,6 +7,9 @@
     margin: 5px 2px;
     border-radius: 70%;
   }
+  .cities{
+  text-align: left;
+  }
   
   .fa:hover {
       opacity: 0.7;
